@@ -1,3 +1,3 @@
 # repo2
 
-Commit with users.noreply emaill
+Commit with users.noreply email
