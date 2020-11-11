@@ -1,4 +1,4 @@
 import math
 
 
-password="Abc123$%^"
+# deleted password!
