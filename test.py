@@ -1,4 +1,4 @@
 import math
 
 
-another_pw = "Abc123$%^"
+another_pw = "Abc123$%^*"
