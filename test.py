@@ -1,3 +1,3 @@
 import math
 
-disappointing_token="Abc123$"
+# Delete disappointing token!
