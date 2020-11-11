@@ -1,5 +1,3 @@
 import math
 
-"`githUb_token`: '9qjxsjq6HWBXKAOP87IJHmhsW8038d73Dm9eDu'"
-
-`gitLab= "y-WttoALkwHn_vWJ72DB"`
+`bitbucKet-app_pwd := "YpHdUSPAB9aDNuwVq8uK"`
