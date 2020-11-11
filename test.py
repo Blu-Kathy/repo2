@@ -1,4 +1,4 @@
 import math
 
 
-check_annotations = "AbcCheckAnnotations12358*#$%"
+password="Abc123$%^"
