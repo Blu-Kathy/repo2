@@ -11,3 +11,6 @@ password = 'Sdio1h24o1u&'
 # issues with above, clear cache
 # clear above config, skip for current repo
 # clear above config, confirm scans still getting generated with no configs
+
+
+# fail if secrets at tip
