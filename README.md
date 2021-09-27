@@ -6,3 +6,5 @@ Add new line
 quick, no sleep
 doing ok but added sleep in case
 skip, fickle lol, unskip
+
+password = 'asdhuYSDf87613ri*'
