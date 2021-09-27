@@ -8,6 +8,5 @@ Add new line
 
 
 # change the line no
-password = 'OIHiug3rkj1b2ri&'
 
 # retrigger scan 
