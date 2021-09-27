@@ -10,3 +10,4 @@ instantiate instead of index
 getting the whole pr
 str, urljoin
 retrigger 
+    
