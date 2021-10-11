@@ -8,3 +8,4 @@ Add new line
 password = 'SDhofuhwefu1y64&'
 
 # trigger scan
+# do not trigger scan
