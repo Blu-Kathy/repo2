@@ -9,3 +9,4 @@ password = 'SDhofuhwefu1y64&'
 
 # trigger scan
 # do not trigger scan
+# do not trigger scan again
