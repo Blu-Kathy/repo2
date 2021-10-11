@@ -6,4 +6,7 @@ Add new line
 # commit - trigger webhook event
 
 password = 'SDhofuhwefu1y64&'
-pewpew pew again
+
+# trigger scan
+# do not trigger scan
+# do not trigger scan again
