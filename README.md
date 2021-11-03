@@ -14,6 +14,8 @@ master = 'vHIUdsfig23fkg13^'
 # Master Slave Mode - slave node sends requests to master node
 dev broken?
 
+# dev is indeed broken
+
 
 
 
