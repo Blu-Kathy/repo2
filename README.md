@@ -13,7 +13,7 @@ master = 'vHIUdsfig23fkg13^'
 
 # Master Slave Mode - slave node sends requests to master node
 
-test perms (again - forgot to save)
+test perms (again - forgot to save) - wrong permission set
 
 
 
