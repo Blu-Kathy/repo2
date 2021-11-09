@@ -13,6 +13,8 @@ master = 'vHIUdsfig23fkg13^'
 
 # Master Slave Mode - slave node sends requests to master node
 
+test perms
+
 
 
 
