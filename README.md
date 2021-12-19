@@ -15,6 +15,7 @@ master = 'vHIUdsfig23fkg13^'
 
 
 # verify scans generated
+# regenerate scans i think name is incorrect
 
 
 
