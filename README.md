@@ -14,6 +14,9 @@ master = 'vHIUdsfig23fkg13^'
 # Master Slave Mode - slave node sends requests to master node
 
 
+# verify scans generated
+# regenerate scans i think name is incorrect
+
 
 
 
