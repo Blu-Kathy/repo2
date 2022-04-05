@@ -15,6 +15,9 @@ password = 'KSHDfiuwyery128736r@!@'
 # Master Slave Mode - slave node sends requests to master node
 
 
+# add secret
+password = 'SDfiuy32r7y2387ry!!kshjdjhsuif'
+
 
 
 
