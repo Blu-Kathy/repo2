@@ -14,6 +14,11 @@ master = 'vHIUdsfig23fkg13^'
 # Master Slave Mode - slave node sends requests to master node
 
 
+# create a pr
+
+# merge conflicts
+
+
 
 # remove in new branch
 
