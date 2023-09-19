@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # repo2
 
 Commit with users.noreply emaill
@@ -13,6 +19,8 @@ master = 'vHIUdsfig23fkg13^'
 
 # Master Slave Mode - slave node sends requests to master node
 
+
+password = 'LSKHDFiuqy3r1!!'
 
 
 # remove in new branch
