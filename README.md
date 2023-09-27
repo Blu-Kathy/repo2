@@ -6,12 +6,6 @@
 
 
 
-
-
-
-
-
-
 password = 'sdFHUIWeyriyr!!!'
 
 
