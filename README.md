@@ -6,7 +6,7 @@
 
 
 
-password = 'sdFHUIWeyriyr!!!'
+password = 'sdFHUIWeyriyr!!!'  # HashiCorpIgnore
 
 
 
@@ -19,7 +19,7 @@ password = 'sdFHUIWeyriyr!!!'
 
 
 
-password = 'xCHFweyf7yqw32r23r3#'
+password = 'xCHFweyf7yqw32r23r3#'  # HashiCorpIgnore
 
-password = 'SLDKfhoqweyoquyr!!!'
+password = 'SLDKfhoqweyoquyr!!!'  # HashiCorpIgnore
 
