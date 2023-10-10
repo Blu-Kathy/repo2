@@ -8,11 +8,5 @@
 
 
 
-
-
-
-
-
-
 password = 'SLDKfhoqweyoquyr!!!'
 
