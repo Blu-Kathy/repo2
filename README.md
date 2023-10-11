@@ -1,12 +1,3 @@
 
 
 
-
-
-
-
-
-
-
-password = 'SLDKfhoqweyoquyr!!!'
-
