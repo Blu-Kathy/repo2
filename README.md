@@ -4,10 +4,6 @@
 
 
 
-password = 'Xcfhiueshfiuweyfw!!'
-
-
-
 password = 'SLDKfhoqweyoquyr!!!'
 
 
