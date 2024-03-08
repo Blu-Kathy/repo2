@@ -9,12 +9,6 @@
 
 
 
-
-
-
-
-
-
 password = 'SLDKfhoqweyoquyr!!!'
 
 
