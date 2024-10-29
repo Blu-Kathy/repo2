@@ -36,3 +36,4 @@ password = 'eKDFhwiueyfiuwyer#R!!!4'
 password = 'eKDFhwiueyfiuwyer#R!!!5'
 password = 'eKDFhwiueyfiuwyer#R!!!6'
 password = 'eKDFhwiueyfiuwyer#R!!!7'  # HashiCorpIgnore
+password = 'P@$$w0rD!'
