@@ -48,3 +48,4 @@ aws_mws_key = 'amzn.mws.a8fc03d7-7eb3-c92f-b3aa-ae93cbff7ac1'
 
 password = 'eKDFhwiueyfiuwyer#R!!!3'
 password = 'eKDFhwiueyfiuwyer#R!!!2'
+password = 'eKDFhwiueyfiuwyer#R!!!1'
