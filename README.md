@@ -1,5 +1,8 @@
 
 
+# verify scans generated
+# regenerate scans i think name is incorrect
+
 
 
 
